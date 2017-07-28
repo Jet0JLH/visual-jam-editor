@@ -1,0 +1,11 @@
+C:\Users\Ladmin\Source\Repos\visual-jam-editor\Visual Jam Editor\Visual Jam Editor\bin\Debug\Visual Jam Editor.exe.config
+C:\Users\Ladmin\Source\Repos\visual-jam-editor\Visual Jam Editor\Visual Jam Editor\bin\Debug\Visual Jam Editor.exe
+C:\Users\Ladmin\Source\Repos\visual-jam-editor\Visual Jam Editor\Visual Jam Editor\bin\Debug\Visual Jam Editor.pdb
+C:\Users\Ladmin\Source\Repos\visual-jam-editor\Visual Jam Editor\Visual Jam Editor\bin\Debug\Visual Jam Editor.xml
+C:\Users\Ladmin\Source\Repos\visual-jam-editor\Visual Jam Editor\Visual Jam Editor\obj\Debug\Visual_Jam_Editor.block.resources
+C:\Users\Ladmin\Source\Repos\visual-jam-editor\Visual Jam Editor\Visual Jam Editor\obj\Debug\Visual_Jam_Editor.Form1.resources
+C:\Users\Ladmin\Source\Repos\visual-jam-editor\Visual Jam Editor\Visual Jam Editor\obj\Debug\Visual_Jam_Editor.Resources.resources
+C:\Users\Ladmin\Source\Repos\visual-jam-editor\Visual Jam Editor\Visual Jam Editor\obj\Debug\Visual Jam Editor.vbproj.GenerateResource.Cache
+C:\Users\Ladmin\Source\Repos\visual-jam-editor\Visual Jam Editor\Visual Jam Editor\obj\Debug\Visual Jam Editor.exe
+C:\Users\Ladmin\Source\Repos\visual-jam-editor\Visual Jam Editor\Visual Jam Editor\obj\Debug\Visual Jam Editor.xml
+C:\Users\Ladmin\Source\Repos\visual-jam-editor\Visual Jam Editor\Visual Jam Editor\obj\Debug\Visual Jam Editor.pdb
